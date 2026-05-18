@@ -1,3 +1,5 @@
+#### [PORTUGUESE/ ENGLISH]
+
 # 🧮 Menu Interativo de Operações Exatas em Python
 
 ## 📌 Sobre o projeto
@@ -128,5 +130,61 @@ ou
 py -m pip install colorama
 ```
 
+---
+
+
+# 🧮 Python Interactive Solutions Menu
+
+## 📌 About the project
+An interactive command-line interface (CLI) menu developed in Python to centralize mathematical problem-solving. The system guides the user from basic operations to complex calculations, such as the Fibonacci sequence and quadratic equations. To make navigation more intuitive and organized, I implemented a colorful visual interface directly in the console.
+
+## 🛠️ Stacks
+
+* Python
+* `math` library
+* `colorama` library
+
+---
+
+## 🎯 Features
+
+The system offers the following operations:
+
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division (with division by zero handling)
+* 📊 Average calculation
+* 📐 Quadratic equation (Bhaskara)
+* 🔢 Factorial
+* 🔄 Unit conversions:
+
+  * Km/h → m/s
+  * Hours → Minutes
+  * Kg → g
+  * Celsius → Fahrenheit
+* 📋 Complete multiplication table
+* 🔁 Fibonacci sequence
+
+---
+
+## ⚙️ Requirements
+
+* Python 3.x installed
+* `colorama` library (optional, but recommended)
+
+---
+
+## 💻 How to run
+
+1. Clone or download this repository
+2. Open the project in **Visual Studio Code**
+3. Open the integrated terminal
+
+### 🔹 Install dependencies (optional)
+
+```bash
+pip install colorama
+```
 
 
