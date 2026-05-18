@@ -23,7 +23,7 @@ while True:
     opcao = input("- ESCOLHA A OPÇÃO DESEJADA DO MENU: ")
     print("\n")
 
-    # Switch/Case (match/case), ao invés de if/elif, para questão de ligibilidade.
+    # Switch/Case (match/case), ao invés de if/elif, para questão de legibilidade.
     match opcao:
         case "1":
             print(Fore.GREEN + "|| Você escolheu realizar um cálculo de Soma ||" + Style.RESET_ALL)
