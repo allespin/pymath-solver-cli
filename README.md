@@ -2,33 +2,37 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto consiste em um menu interativo via terminal desenvolvido em Python para centralizar resoluções de problemas matemáticos. 
-
+Menu interativo via terminal (CLI) desenvolvido em Python para centralizar resoluções de problemas matemáticos. 
 O sistema guia o usuário desde operações básicas até cálculos complexos, como a sequência de Fibonacci e equações de segundo grau. Para tornar a navegação mais intuitiva e organizada, implementei uma interface visual colorida diretamente no console.
+
 ---
 
 ## 📸 Preview
 
 ---
 <p align="center">
-  <img src="/" width="60%">
+ 
+  <img  alt="1" src="https://github.com/user-attachments/assets/ca68d225-2384-4190-96cf-1b5846c778ac" width="60%">
 </p>
 
 ---
 
 <p align="center">
-  <img src="/" width="60%">
+ <img  alt="2" src="https://github.com/user-attachments/assets/0868c655-faf1-4b1f-89ad-875e2efc07e8" width="60%">
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="/
+  <img alt="3" src="https://github.com/user-attachments/assets/67356658-9122-4002-b1ff-a33c0a5c33a0" width="60%">
+</p>
 
 ---
 
 <p align="center">
-  <img src="/
+  <img alt="4" src="https://github.com/user-attachments/assets/777ee393-6c8c-4d1a-8a2c-5fa4c6d05f7f" width="60%">
+</p>
 
 ---
 
