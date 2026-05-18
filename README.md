@@ -93,8 +93,9 @@ pip install colorama
 python nome_do_arquivo.py
 ```
 
-> 💡 Substitua `nome_do_arquivo.py` pelo arquivo principal do projeto.
-> 💡 Recomenda-se a execução pelo terminal do VS Code para melhor visualização e interação com o programa.
+💡 Substitua `nome_do_arquivo.py` pelo arquivo principal do projeto.
+
+💡 Recomenda-se a execução pelo terminal do VS Code para melhor visualização e interação com o programa.
 
 ---
 
@@ -186,5 +187,8 @@ The system offers the following operations:
 ```bash
 pip install colorama
 ```
+---
+
+💡 Running it through the VS Code terminal is recommended for a better experience and interaction with the program.
 
 
