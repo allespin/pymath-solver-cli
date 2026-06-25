@@ -10,7 +10,6 @@ O sistema guia o usuário desde operações básicas até cálculos complexos, c
 
 ## 📸 Preview
 
----
 <p align="center">
  
   <img  alt="1" src="https://github.com/user-attachments/assets/ca68d225-2384-4190-96cf-1b5846c778ac" width="60%">
