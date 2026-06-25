@@ -7,7 +7,6 @@
 Menu interativo via terminal (CLI) desenvolvido em Python para centralizar resoluções de problemas matemáticos. 
 O sistema guia o usuário desde operações básicas até cálculos complexos, como a sequência de Fibonacci e equações de segundo grau. Para tornar a navegação mais intuitiva e organizada, implementei uma interface visual colorida diretamente no console.
 
----
 
 ## 📸 Preview
 
